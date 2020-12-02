@@ -1,0 +1,38 @@
+body{
+	font-size: 12px;
+
+}
+
+ul{
+	list-style: none;
+}
+ul.menu li {
+display: inline;
+background-color: antiquewhite;
+margin-right: 10px;
+padding: 5px;
+color: black;
+
+}
+h2{
+	font-size: 16px;
+	color: darkred;
+
+}
+li h3{
+font-size: 14px;
+color: blue;
+
+}
+
+ul li {
+	font-size: 13px;
+}
+#Articulos_tic{
+	font-size: 14px;
+	color: green;
+
+}
+li h4{
+	color: #F7360C;
+}
